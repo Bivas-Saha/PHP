@@ -1,1 +1,1 @@
-# PHP Simple Project on Hello World.
+# PHP Simple Project.
